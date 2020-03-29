@@ -1,0 +1,41 @@
+.blue-Btn {
+background-color: blue;
+width: 250px;
+text-align: left;
+}
+
+#start {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 350px;
+}
+
+#answerBtn {
+margin-top: -350px;
+}
+
+#quizTimeLeft  {
+    font-weight: bold;
+    float: right;
+    margin-right: 50px;
+
+}
+
+#questionOne {
+    margin-top: 50px;
+}
+
+#alert {
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 350px;
+    margin-right: 300px;
+}
+
+#alert2 {
+    margin-top: -66px;
+    text-align: left;
+    margin-left: 350px;
+    margin-right: 300px;
+}
