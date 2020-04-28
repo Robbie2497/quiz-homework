@@ -8,7 +8,6 @@ text-align: left;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 350px;
 }
 
 #answerBtn {
@@ -23,10 +22,12 @@ margin-top: -350px;
 }
 
 #questionOne {
-    margin-top: 50px;
+    margin-top: -250px;
+    margin-bottom: 10px;
 }
 
 #alert {
+
     margin-top: 10px;
     text-align: left;
     margin-left: 350px;
@@ -34,8 +35,51 @@ margin-top: -350px;
 }
 
 #alert2 {
+
     margin-top: -66px;
     text-align: left;
     margin-left: 350px;
     margin-right: 300px;
+}
+
+#initials {
+    position: relative;
+    left: 40%;
+    top: 15%;
+}
+
+#reset {
+    position: relative;
+    left: 445px;
+    top: 320px;
+}
+
+#homeScreen {
+    position: relative;
+    left: 385px;
+    top: 349px;
+}
+
+.center-page {
+position: absolute;
+margin-left: 350px;
+margin-top: 200px;
+
+}
+
+.whole-page {
+    width: 100%;
+}
+
+.center-text {
+    text-align: center;
+    margin-left: 20px;
+}
+
+.firstScreen {
+    margin-top: 200px;
+}
+
+.choices {
+    margin-top: 10px;
 }
